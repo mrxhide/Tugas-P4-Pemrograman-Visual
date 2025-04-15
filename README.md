@@ -6,4 +6,4 @@ Berikut adalah tampilan desain mockup aplikasi **Biodata Diri** yang telah diran
 
 ---
 
-Mockup ini akan menjadi acuan dalam pengembangan aplikasi desktop menggunakan WinForm.
+
